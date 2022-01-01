@@ -1,37 +1,83 @@
-## Welcome to GitHub Pages
+# 什么是经济学的本质？
 
-You can use the [editor on GitHub](https://github.com/luochunyu/luochunyu.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+**这篇文章主要讨论三个问题：**
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+```
+什么是经济学的本质？
+你为什么要学经济学？
+学经济学的一大误区？
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
+## 什么是经济学的本质？
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/luochunyu/luochunyu.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+> 稀缺
 
-### Support or Contact
+经济学的本质，一句话就可以说得明白，叫**研究人们如何配置稀缺资源**。
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+那么，问题来了。
+
+> 为什么资源都是稀缺的呢？
+
+从日常生活中我们可以发现，越是那些美好的东西，在这个世间的存量就越少，对于这些美好的东西，你想要的别人也想要，别人想要的你也想要，这就导致了资源不可能平均分配到每个人身上。
+
+**所以，资源都是稀缺的。**
+
+生活的真谛不在于拥有资源的多少，而在于如何利用好自己所拥有的稀缺资源，毕竟，每个人都有自己的热爱，要去追逐自己热爱的东西。
+
+然后，和喜欢的一切在一起，尽量把自己喜欢的追逐成自己财富的一部分。
+
+
+## 你为什么要学经济学？
+
+> 学经济学有助于你更好的理解你所生存的世界在发生着什么？
+
+对于我们生活的世界，如果不从经济学的角度去分析的话，很难看清楚生活的全貌。
+
+整个世界围绕着交易产生，每个人都从交易中生存，对于我们生存的世界，它是一个交易的世界，拿你拥有的换你想要的。
+
+毕竟，对于我们所面临的大部分问题来说，都可以通过金钱来解决，如果一个问题不能够被解决，那只是金钱不够多而已。
+
+不过，很多东西光靠金钱是不能解决的，比如说生老病死这种事，很多自然规律这种事，我们靠人力是不足以去抗衡的，只有相信技术的力量。
+
+对于今天解决不了的大多数问题，都可以交由后天的技术来解决，不过技术是一个长周期的事，它需要在很长的时间内，经过一些人的辛苦努力，才能被大众所使用。
+
+> 学经济学有助于你解读一项经济政策的潜力与威胁
+
+**生活世界的每一项关于经济政策的颁布，都是财富世界的重新分配。**
+
+读懂了经济学，它能够让你拥有一副看懂经济趋势的眼镜，能够知道哪些雷区是不能去碰的，哪些洼地是必须发力的。
+
+同时，让你赶快从泥塘里走出来，避免陷入太深。
+
+> 学经济学有助于你更好做出对自己最有利的决策
+
+经济学是研究人们如何分配稀缺资源的学问，其中涉及宏观经济学与微观经济学部分。
+
+* **宏观经济学：** 研究整体经济如何运行？
+* **微观经济学：** 研究家庭和企业如何做决策？
+
+读懂了这些潜在的关键词，也许，在做决策的时候，能够明智一些。
+
+
+## 学经济学的一大误区？
+
+> 立刻马上变富
+
+很多人以为，学好经济学之后，就可以马上变富了，其实，这是种错误的观念，如果学好经济学能立刻马上变富的话。
+
+那每年的福布斯排行榜上应该是那些经济学家们，而不应该是那些科技巨头们。
+
+> 金钱是一个结果，产品和服务才是过程
+
+我想，其中的一个原因是，金钱是一个结果，产品和服务才是过程，如果想短时间内变富的话，一个很好的做法是，做出人们需要的产品和服务，然后大规模卖出去。
+
+能把人们需要的产品做出来，而且能够卖得出去，这就能赚钱了。
+
+> 我学经济学的原因
+
+以上说的都是，当然了还有一个原因是热爱。
+
+当然了，在学经济学的同时，把自己阅读经济学的感受和体验记录下来，放在公众号，知乎等这些平台上，能够为自己增加点粉丝。
+
+毕竟，粉丝多了，是可以寻找变现的渠道的，你可能会骂我，不过，无所谓了，我必须真实点。
